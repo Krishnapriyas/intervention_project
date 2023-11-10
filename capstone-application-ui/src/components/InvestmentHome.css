@@ -1,0 +1,79 @@
+
+.container-investment {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .h2-investment {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  .h3-invetsment {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  input[type='text'],
+  input[type='date'],
+  input[type='number'],
+  button {
+    margin: 5px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .button-investment {
+    background-color: #2196F3;
+    color: white;
+    cursor: pointer;
+    height:60px;
+    width:160px;
+  }
+  
+  .li-investment {
+    list-style: none;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px;
+  }
+  
+  .investment-details {
+    margin-bottom: 10px;
+  }
+  
+  .update-btn-invs,
+  .delete-btn-invs {
+    margin: 5px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    cursor: pointer;
+    height:60px;
+    width:160px;
+  }
+  
+  .update-btn-invs {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .delete-btn-invs {
+    background-color: #f44336;
+    color: white;
+  }
+
+.input-field {
+    margin: 5px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    width: 200px; 
+  }
+  
+  
